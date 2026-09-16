@@ -60,7 +60,7 @@ header {
 }
 
 .hero {
-    background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), url('images/hero.jpg') center 20%/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), url('hero.jpg') center 20%/cover no-repeat;
     height: 75vh;
     display: flex;
     justify-content: center;
@@ -196,4 +196,4 @@ footer p {
     .hero-content h1 {
         font-size: 1.8rem;
     }
-  }
+}
